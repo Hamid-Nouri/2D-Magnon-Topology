@@ -16,5 +16,5 @@ Dirac particles in their spin-wave spectrum.
 
 ## Data Visualization <a name="visualization"></a>  
 Band Structure
-<img src="Tableau.png" alt="Tableau">
+<img src="Band_Structure_DMI_0.0.pdf" alt="Tableau">
 ## Data Management <a name="management"></a>
