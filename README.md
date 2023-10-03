@@ -15,11 +15,6 @@ Dirac particles in their spin-wave spectrum.
 - #### Python
 
 ## Data Visualization <a name="visualization"></a>  
-Matplotlib
+Band Structure
 <img src="Tableau.png" alt="Tableau">
 ## Data Management <a name="management"></a>
-
-<img src="airflow.png" alt="Airflow">
-
-## Data Source <a name="source"></a>  
-Grateful acknowledgment to [Luke Barousse](https://www.youtube.com/c/lukebarousse) for generously providing the dataset, and database.
