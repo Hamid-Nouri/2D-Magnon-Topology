@@ -14,5 +14,7 @@ Dirac particles in their spin-wave spectrum.
 - #### Data Cleaning
 - #### Python
 
-## Data Visualization <a name="visualization"></a>  
-![Band Structures](band_structure.png)
+## Data Visualization <a name="visualization"></a>
+
+<img src="Band_Structure_DMI_0.0.png" alt="Band Structures" width="300">
+
