@@ -20,4 +20,8 @@ Dirac particles in their spin-wave spectrum.
     <img src="Band_Structure_DMI_0.0.png" alt="Band Structures" width="400">
     <img src="Band_Structure_DMI_0.22.png" alt="Band Structures" width="400">
 </div>
+<div style="margin: 20px auto; text-align: center;">
+    <img src="Berry_phase_DMII_0.22_3D.png" alt="Band Structures" width="400">
+</div>
+
 
