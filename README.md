@@ -15,6 +15,6 @@ Dirac particles in their spin-wave spectrum.
 - #### Python
 
 ## Data Visualization <a name="visualization"></a>  
-Band Structure
-<img src="Band_Structure_DMI_0.0.pdf" alt="Tableau">
+
+
 ## Data Management <a name="management"></a>
